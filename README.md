@@ -1,5 +1,8 @@
 # NetInspect Advanced Binary Analyzer
 
+<img width="1920" height="1080" alt="Capture" src="https://github.com/user-attachments/assets/cbeb3b1d-317c-4382-9b51-521a81152af7" />
+
+
 **Defensive Windows PE/static analysis and controlled runtime network triage.**
 
 NetInspect Advanced is a Windows-focused analysis tool designed to help inspect PE executables and DLLs, review their metadata, examine imported dependencies, and perform **explicitly authorized runtime network observation**.
